@@ -3,9 +3,6 @@
 // API CONFIGURATION
 // ========================================
 
-// Replace this with your actual Render backend URL.
-// Example: https://hotel-booking-backend.onrender.com
-
 const API_URL = "https://hotel-booking-backend-jqp9.onrender.com";
 
 
