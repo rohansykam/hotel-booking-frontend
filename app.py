@@ -15,7 +15,7 @@ st.set_page_config(
 )
 
 API_URL = st.secrets.get(
-    "API_URL",
+    "https://hotel-booking-backend-jqp9.onrender.com",
     "http://127.0.0.1:8000"
 )
 
